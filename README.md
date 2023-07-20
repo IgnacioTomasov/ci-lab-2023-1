@@ -3,7 +3,7 @@ laboratorio de integración continua 2022
 
 
 
-# GitHub Actions
+# GitHub Actions X
 
 - Configura una action importando el plugin "Java with Maven", tal como lo mostró el profesor
 - Modifica el archivo `maven-publish.yml` dejándolo así:
